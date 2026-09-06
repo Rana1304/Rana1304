@@ -56,8 +56,6 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rana1304&layout=compact" alt="top-langs" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana1304&show_icons=true&locale=en" alt="stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana1304" alt="streak-stats" /></p>
 
 <picture>
