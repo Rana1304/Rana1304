@@ -56,9 +56,9 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan31457&layout=compact" alt="top-langs" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan31457&show_icons=true&locale=en" alt="stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan31457" alt="streak-stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rana1304&layout=compact" alt="top-langs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana1304&show_icons=true&locale=en" alt="stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana1304" alt="streak-stats" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
