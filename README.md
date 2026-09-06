@@ -15,7 +15,7 @@
 - 🛠️ Backend: Django, Flask, FastAPI
 - 🧠 Practicing DSA & CP with 150+ problems solved  
 - 🔍 Passionate about AI, software reengineering & real-world problem-solving projects  
-- 📄 [My Resume](https://drive.google.com/file/d/1gBTjU52TtZCll2uUiD0OpDEtLAqI-2Is/view?usp=sharing)  
+- 📄 [My Resume](https://drive.google.com/file/d/1mjEm1A3hWSx2aaOh8EKiQLjPTjOB6d1f/view?usp=sharing)  
 
 ---
 
