@@ -75,9 +75,8 @@
        width="40" height="40" alt="IntelliJ IDEA"/>
   </a>
   <a href="https://cursor.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-       width="40" height="40" alt="Cursor"/>
-  </a>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+</a>
 </p>
 
 ---
