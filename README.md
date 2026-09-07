@@ -71,11 +71,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij-idea/intellij-idea-original.svg" alt="intellij" width="40" height="40"/>
-  </a>
-  <a href="https://cursor.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/cursor/cursor-icon.svg" alt="cursor" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+       width="40" height="40" alt="IntelliJ IDEA"/>
+</a>
+<a href="https://cursor.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/cursor/cursor-icon.svg"
+       width="40" height="40" alt="Cursor"/>
+</a>
 </p>
 
 ---
