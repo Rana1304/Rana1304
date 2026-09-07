@@ -75,7 +75,7 @@
        width="40" height="40" alt="IntelliJ IDEA"/>
 </a>
 <a href="https://cursor.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/cursor/cursor-icon.svg"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
        width="40" height="40" alt="Cursor"/>
 </a>
 </p>
