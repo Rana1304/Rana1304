@@ -73,11 +73,11 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
        width="40" height="40" alt="IntelliJ IDEA"/>
-</a>
-<a href="https://cursor.com/" target="_blank">
+  </a>
+  <a href="https://cursor.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
        width="40" height="40" alt="Cursor"/>
-</a>
+  </a>
 </p>
 
 ---
